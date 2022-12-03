@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TTT", "PC ", "P  "],
+  "key": {
+    "T": {
+      "item": "minecraft:cobblestone"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "estr:essence_vacuum",
+    "count": 1
+  }
+}

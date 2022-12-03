@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "SDS", "TST"],
+  "key": {
+    "S": {
+      "item": "minecraft:sandstone"
+    },
+    "T": {
+      "item": "minecraft:orange_terracotta"
+    },
+    "D": {
+      "item": "estr:desert_temple_essence"
+    }
+  },
+  "result": {
+    "item": "estr:desert_temple_structure",
+    "count": 1
+  }
+}

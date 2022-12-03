@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TTT", "BDB", "SSS"],
+  "key": {
+    "S": {
+      "item": "minecraft:nether_bricks"
+    },
+    "T": {
+      "item": "minecraft:coal"
+    },
+    "D": {
+      "item": "estr:nether_fortress_essence"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "estr:nether_fortress_essence",
+    "count": 1
+  }
+}

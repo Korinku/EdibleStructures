@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "SDS", "TST"],
+  "key": {
+    "S": {
+      "item": "minecraft:netherrack"
+    },
+    "T": {
+      "item": "minecraft:magma_block"
+    },
+    "D": {
+      "item": "estr:ruined_portal_essence"
+    }
+  },
+  "result": {
+    "item": "estr:ruined_portal_structure",
+    "count": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "display": {
+    "title": {
+      "text": "Edible Structures",
+      "bold": true,
+      "italic": true
+    },
+    "description": {
+      "text": ""
+    },
+    "icon": {
+      "item": "estr:desert_temple_essence"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "Placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:crafting_table"
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "estr:bastion_structure",
+      "estr:desert_temple_structure",
+      "estr:dragon_pearch_structure",
+      "estr:end_portal_structure",
+      "estr:geode_structure",
+      "estr:mineshaft_structure",
+      "estr:nether_fortress_structure",
+      "estr:ruined_portal_structure",
+      "estr:shipwreck_structure",
+      "estr:village_structure",
+      "estr:essence_vacuum"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "SDS", "TST"],
+  "key": {
+    "S": {
+      "item": "minecraft:amethyst_block"
+    },
+    "T": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "D": {
+      "item": "estr:geode_essence"
+    }
+  },
+  "result": {
+    "item": "estr:geode_structure",
+    "count": 1
+  }
+}

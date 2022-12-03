@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "SDS", "TST"],
+  "key": {
+    "S": {
+      "item": "minecraft:ender_pearl"
+    },
+    "T": {
+      "item": "minecraft:stone_bricks"
+    },
+    "D": {
+      "item": "estr:end_portal_essence"
+    }
+  },
+  "result": {
+    "item": "estr:end_portal_structure",
+    "count": 1
+  }
+}

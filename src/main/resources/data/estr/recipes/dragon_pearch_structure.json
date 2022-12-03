@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "ETD", "TST"],
+  "key": {
+    "S": {
+      "item": "minecraft:dragon_breath"
+    },
+    "T": {
+      "item": "minecraft:end_stone"
+    },
+    "D": {
+      "item": "estr:dragon_pearch_essence"
+    },
+    "E": {
+      "item": "minecraft:dragon_egg"
+    }
+  },
+  "result": {
+    "item": "estr:dragon_pearch_structure",
+    "count": 1
+  }
+}

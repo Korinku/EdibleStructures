@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "SDS", "THT"],
+  "key": {
+    "S": {
+      "item": "minecraft:iron_nugget"
+    },
+    "T": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "D": {
+      "item": "estr:shipwreck_essence"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result": {
+    "item": "estr:shipwreck_structure",
+    "count": 1
+  }
+}

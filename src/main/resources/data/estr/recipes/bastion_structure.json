@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TST", "SDS", "TST"],
+  "key": {
+    "S": {
+      "item": "minecraft:gold_ingot"
+    },
+    "T": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "D": {
+      "item": "estr:bastion_essence"
+    }
+  },
+  "result": {
+    "item": "estr:bastion_structure",
+    "count": 1
+  }
+}

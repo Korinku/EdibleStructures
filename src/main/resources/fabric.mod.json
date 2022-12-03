@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "estr",
+  "version": "${version}",
+  "name": "EdibleStructures",
+  "description": "EdibleStructures",
+  "authors": ["Korinku", "DragonCommissions"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": ["me.korinku.ediblestructures.client.EdibleStructuresClient"],
+    "main": ["me.korinku.ediblestructures.EdibleStructures"]
+  },
+  "mixins": ["estr.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.12.0",
+    "fabric": "*",
+    "minecraft": "1.18",
+    "java": ">=17"
+  }
+}

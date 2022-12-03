@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["LCL", "IDE", "WWW"],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "D": {
+      "item": "estr:village_essence"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "estr:village_structure",
+    "count": 1
+  }
+}

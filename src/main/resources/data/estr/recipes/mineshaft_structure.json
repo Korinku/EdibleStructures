@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TCT", "GDO", "TIT"],
+  "key": {
+    "T": {
+      "item": "minecraft:rail"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "D": {
+      "item": "estr:mineshaft_essence"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "O": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "estr:mineshaft_structure",
+    "count": 1
+  }
+}
